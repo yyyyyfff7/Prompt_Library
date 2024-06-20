@@ -1,0 +1,1 @@
+Instruction Register Utilization: Implement programs with a variety of instruction types, including arithmetic operations, logic operations, control flow instructions, and memory access instructions. Test the utilization and efficiency of the instruction register by observing the instruction throughput and the latency of different instruction types.

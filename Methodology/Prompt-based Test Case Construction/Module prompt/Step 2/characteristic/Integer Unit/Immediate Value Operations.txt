@@ -1,0 +1,1 @@
+Immediate Value Operations: Design programs that use immediate values in arithmetic and logic operations, such as adding a constant value to a register or performing bitwise operations with an immediate operand. Test the ALU's ability to correctly handle operations involving immediate values, ensuring that the immediate values are correctly interpreted and used in calculations.

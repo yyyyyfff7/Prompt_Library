@@ -1,0 +1,1 @@
+Instruction Scheduling: Create tests that include various types of instructions, such as arithmetic operations, logic operations, memory access instructions, and control flow instructions. Evaluate the IDU's out-of-order scheduling capabilities by analyzing the instruction execution order and the efficient utilization of execution units.

@@ -1,0 +1,1 @@
+Precise Exceptions: Write programs that intentionally trigger exceptions (e.g., division by zero, memory access violations) to test the RTU's support for precise exceptions. Verify that the exception is accurately reported and that the state of the processor is correctly maintained for exception handling.

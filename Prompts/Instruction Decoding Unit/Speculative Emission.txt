@@ -1,0 +1,1 @@
+Speculative Emission: Design programs with conditional branches and dependent instructions following the branches. Test the IDU's ability to mitigate performance losses through speculative emission by observing the handling of mispredicted branches and the reordering of instructions to maintain high execution efficiency.

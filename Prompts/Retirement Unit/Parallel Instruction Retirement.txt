@@ -1,0 +1,1 @@
+Parallel Instruction Retirement: Create programs that execute a series of independent instructions to test the RTU's ability to retire three instructions in parallel per clock cycle. Analyze the instruction throughput and execution time to verify parallel retirement.

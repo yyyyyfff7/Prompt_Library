@@ -1,0 +1,1 @@
+Precision Testing: Write tests that specifically focus on the precision of floating-point operations. Compare the results of operations with expected values, considering the precision limits of each floating-point format, to verify that the FPU meets the required precision standards.

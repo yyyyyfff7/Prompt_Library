@@ -1,0 +1,1 @@
+Hardware Prefetching: Write programs with predictable access patterns, such as sequential or strided access to arrays, to test the effectiveness of the LSU's 8-channel data stream hardware prefetch technology. Evaluate the impact of prefetching on reducing cache misses and improving data access times.

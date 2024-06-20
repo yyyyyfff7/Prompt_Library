@@ -1,0 +1,1 @@
+Out-of-Order Execution: Implement programs that mix load and store instructions with different dependencies, such as independent load instructions followed by store instructions that depend on the loaded values. Observe the execution order and test the LSU's ability to execute these instructions out of order for improved performance.

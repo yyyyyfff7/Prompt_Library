@@ -1,0 +1,1 @@
+Register Stack Management: Design programs that utilize a large number of registers and perform various operations to test the management of the physical register stack. Verify that the register stack correctly allocates and deallocates registers for out-of-order execution and retirement.

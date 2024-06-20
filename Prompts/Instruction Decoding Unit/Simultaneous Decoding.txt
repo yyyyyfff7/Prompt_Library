@@ -1,0 +1,1 @@
+Simultaneous Decoding: Develop programs that include sequences of independent instructions, such as a mix of arithmetic operations (addition, subtraction) and logic operations (AND, OR, XOR). Test the IDU's ability to decode three instructions simultaneously by analyzing the instruction throughput and the latency between instruction fetch and execution.

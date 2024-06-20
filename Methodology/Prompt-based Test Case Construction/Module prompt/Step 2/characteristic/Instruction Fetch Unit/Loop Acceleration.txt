@@ -1,0 +1,1 @@
+Loop Acceleration: Implement programs with tight loops that perform simple arithmetic operations or memory accesses. Test the effectiveness of the loop acceleration register by comparing the execution speed of loops with and without loop acceleration enabled.

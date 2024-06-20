@@ -1,0 +1,1 @@
+Function Calls with Integer Arguments: Implement functions that take integer arguments and perform various operations, such as arithmetic calculations or bitwise manipulations. Test these functions with different argument values, including boundary cases, to verify the correct handling of function calls, argument passing, and return values in the processor.

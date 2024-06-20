@@ -1,0 +1,1 @@
+Classification Operations: Write programs that classify floating-point numbers, such as checking if a number is NaN, infinity, normal, subnormal, or zero. Test with a range of values to ensure the FALU correctly classifies different types of floating-point numbers.

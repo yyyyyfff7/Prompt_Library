@@ -1,0 +1,1 @@
+Sign and Zero Extension: Design programs that perform load operations for byte and half-word sizes with sign extension and zero extension, respectively. Test the LSU's ability to correctly extend loaded values by comparing the loaded values with the expected results after extension.

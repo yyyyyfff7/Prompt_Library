@@ -1,0 +1,1 @@
+Power Consumption: Write programs with varying levels of instruction intensity, such as computation-intensive loops, idle loops, and programs with a mix of active and idle periods. Observe the power consumption characteristics of the IFU under different workload conditions and assess its ability to manage power efficiently.

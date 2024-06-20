@@ -1,0 +1,1 @@
+Direct Branch Prediction: Write programs with a mix of predictable direct branches, such as if-else statements with constant conditions or for-loops with a fixed number of iterations. Assess the accuracy of direct branch prediction by analyzing the execution time and the number of correctly predicted branches.

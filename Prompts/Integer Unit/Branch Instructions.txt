@@ -1,0 +1,1 @@
+Branch Instructions: Write programs with various branch instructions, such as if-else statements, for-loops, while-loops, and switch-case statements. Include scenarios where branches are taken and not taken to test the BJU's efficiency in handling branch prediction errors. Test with nested branches and loops to assess the BJU's performance in more complex control flow situations.

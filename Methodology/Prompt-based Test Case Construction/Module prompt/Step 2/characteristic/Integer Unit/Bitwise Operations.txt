@@ -1,0 +1,1 @@
+Bitwise Operations: Implement programs that perform bitwise operations (AND, OR, XOR, NOT, shifts) on 64-bit integers. Test these operations with a variety of inputs, including edge cases like all zeros, all ones, and alternating bit patterns, to ensure the ALU correctly performs bitwise logic.

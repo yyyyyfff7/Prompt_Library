@@ -1,0 +1,1 @@
+Multiplication Variants: Design separate programs for testing 16x16, 32x32, and 64x64 integer multiplication. For each variant, provide a range of test cases, including multiplying by zero, one, negative numbers, and the maximum values for each operand size. This ensures that the MULT unit can accurately handle multiplications with different operand sizes.

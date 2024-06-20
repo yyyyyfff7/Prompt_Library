@@ -1,0 +1,1 @@
+Branch Prediction Accuracy: Create programs with branches that are both easy and difficult to predict, such as branches based on random or pseudo-random conditions, or branches with patterns that change over time. Test the overall branch prediction accuracy of the IFU by analyzing the number of correctly predicted branches and the impact on execution time.

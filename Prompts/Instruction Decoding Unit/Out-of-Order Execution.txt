@@ -1,0 +1,1 @@
+Out-of-Order Execution: Write programs with a mix of independent and dependent instructions, including arithmetic, logic, and control flow instructions. Test the IDU's ability to send instructions out of order to the lower pipeline for execution by evaluating the execution order and the overall performance gains achieved through out-of-order execution.

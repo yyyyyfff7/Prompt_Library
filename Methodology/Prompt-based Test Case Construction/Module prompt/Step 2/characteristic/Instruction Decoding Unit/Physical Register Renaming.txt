@@ -1,0 +1,1 @@
+Physical Register Renaming: Implement programs with sequences of instructions that would normally have data dependencies, such as a series of arithmetic operations using the same register. Test the effectiveness of the physical register renaming technique in resolving data dependencies by analyzing the parallel execution of instructions that would otherwise be serialized.

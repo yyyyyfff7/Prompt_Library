@@ -1,0 +1,1 @@
+Load/Store Instruction Reordering: Implement programs with a mix of dependent and independent load and store instructions. Observe the LSU's ability to reorder instructions for optimal execution by analyzing the execution order and the impact on performance.

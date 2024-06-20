@@ -1,0 +1,1 @@
+Parallel Instruction Execution: Develop programs that include sequences of independent instructions, such as a series of arithmetic operations on different variables or a mix of arithmetic and logic operations. Test with varying numbers of parallel instructions to assess the IFU's ability to extract and execute multiple instructions simultaneously.

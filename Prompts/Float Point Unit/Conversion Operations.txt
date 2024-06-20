@@ -1,0 +1,1 @@
+Conversion Operations: Design tests that convert between different floating-point precisions (e.g., half to single, single to double, double to half) and between floating-point and integer types. Include conversions involving boundary values, such as the maximum and minimum representable numbers in each precision, to verify the FALU's conversion accuracy.

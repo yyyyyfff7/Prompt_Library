@@ -1,0 +1,1 @@
+Instruction Cache Utilization: Design programs with small loops that execute a set of instructions repeatedly, focusing on accessing the instruction cache efficiently. Vary the size of the instruction set within the loop to test the instruction cache's prediction mechanisms and its ability to reduce access latency.

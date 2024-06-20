@@ -1,0 +1,1 @@
+Memory Access Retirement: Write programs that perform a series of load and store operations to test the RTU's ability to retire memory access instructions. Verify that memory operations are correctly retired and that data consistency is maintained.

@@ -1,0 +1,1 @@
+Register Transfer: Implement programs that perform floating-point register transfer operations, such as moving values between different floating-point registers or between floating-point and general-purpose registers. Test with a variety of values, including special values like NaN and infinity, to ensure the FALU handles register transfers correctly.

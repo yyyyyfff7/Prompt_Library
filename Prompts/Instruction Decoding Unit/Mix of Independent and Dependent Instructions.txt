@@ -1,0 +1,1 @@
+Mix of Independent and Dependent Instructions: Write programs that mix independent instructions with sequences of dependent instructions to test the IDU's ability to decode and schedule instructions for optimal performance. Evaluate the IDU's ability to maximize parallel execution while correctly handling data dependencies.

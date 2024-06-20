@@ -1,0 +1,1 @@
+Arithmetic Instruction Retirement: Create tests that perform a variety of arithmetic operations (e.g., addition, subtraction, multiplication, division) to evaluate the RTU's ability to retire arithmetic instructions and deliver correct results.

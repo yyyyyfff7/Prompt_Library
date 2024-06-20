@@ -1,0 +1,1 @@
+Branch Instruction Decoding: Create tests that include a variety of branch instructions, such as if-else statements, loops, and switch-case statements. Evaluate the IDU's ability to decode and handle control flow instructions by analyzing the accuracy of branch prediction and the handling of branch instructions in the presence of other instruction types.

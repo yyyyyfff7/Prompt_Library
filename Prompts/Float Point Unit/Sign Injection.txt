@@ -1,0 +1,1 @@
+Sign Injection: Create tests that inject a sign bit into a floating-point number, such as changing the sign of a positive number to negative or vice versa. Include cases with zero, normal numbers, and special values like NaN and infinity to verify the FALU's sign injection functionality.

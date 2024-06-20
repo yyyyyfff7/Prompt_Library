@@ -1,0 +1,1 @@
+Support for Various Data Sizes: Create tests that perform load and store operations with different data sizes, including byte, half-word, word, double-word, and four-word. Ensure that the LSU correctly handles various instruction types by verifying the accuracy of loaded and stored values for each data size.

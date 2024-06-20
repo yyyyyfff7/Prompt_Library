@@ -1,0 +1,1 @@
+Result Delivery: Implement programs with instructions that produce results used by subsequent instructions to test the physical register stack's ability to deliver results out of order. Observe the correctness of the results and the order in which they are made available to dependent instructions.

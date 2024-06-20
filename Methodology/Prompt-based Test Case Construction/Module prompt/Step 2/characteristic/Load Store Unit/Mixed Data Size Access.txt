@@ -1,0 +1,1 @@
+Mixed Data Size Access: Design programs that mix load and store instructions with different data sizes in close succession. Test the LSU's ability to handle diverse data sizes efficiently by verifying the correctness of the loaded and stored values for each size.

@@ -1,0 +1,1 @@
+Loop Performance: Write loops that perform a large number of iterations with integer operations, such as adding a constant value in each iteration. Test with different loop constructs (for, while, do-while) and varying iteration counts to assess the BJU's efficiency in handling loop branches and its impact on overall performance.

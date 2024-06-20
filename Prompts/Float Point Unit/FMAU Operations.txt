@@ -1,0 +1,1 @@
+FMAU Operations: Develop tests that perform ordinary multiplication and fused multiply-add (FMA) operations on floating-point numbers. Include a variety of operand combinations and precisions to verify the FMAU's accuracy and efficiency in handling these operations.

@@ -1,0 +1,1 @@
+Data Dependency Detection: Design programs with instructions that have data dependencies, such as using the result of an arithmetic operation as the input for a subsequent logic operation. Evaluate the IDU's ability to detect data correlation by observing the execution order and the handling of dependent instructions.

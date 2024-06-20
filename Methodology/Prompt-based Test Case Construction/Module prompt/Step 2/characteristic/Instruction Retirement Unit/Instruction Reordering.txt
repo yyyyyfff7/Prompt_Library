@@ -1,0 +1,1 @@
+Instruction Reordering: Create tests that include sequences of instructions with various dependencies to evaluate the RTU's ability to reorder instructions for efficient retirement. Analyze the retirement order and ensure that it maximizes performance while maintaining program correctness.

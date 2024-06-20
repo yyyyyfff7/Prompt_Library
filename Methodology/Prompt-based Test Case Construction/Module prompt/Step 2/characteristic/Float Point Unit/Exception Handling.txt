@@ -1,0 +1,1 @@
+Exception Handling: Implement programs that trigger floating-point exceptions, such as division by zero, overflow, underflow, and invalid operations. Verify that the FPU correctly handles these exceptions according to the IEEE 754 standard, including setting the appropriate flags and returning the correct result values.

@@ -1,0 +1,1 @@
+Non-blocking Cache Access: Write programs that perform a series of load and store operations and use cache access patterns to analyze the cache behavior. Verify the LSU's support for non-blocking access to the cache by observing the continuity of instruction execution despite cache misses.

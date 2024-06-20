@@ -1,0 +1,1 @@
+Parallel Bus Access on Cache Miss: Create tests that intentionally cause cache misses by accessing data not present in the cache. Observe the LSU's ability to access the bus in parallel to fetch the missing data without stalling the execution of other instructions.

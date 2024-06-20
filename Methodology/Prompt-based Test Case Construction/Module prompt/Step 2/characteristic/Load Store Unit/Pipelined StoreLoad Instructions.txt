@@ -1,0 +1,1 @@
+Pipelined Store/Load Instructions: Implement programs with continuous store or load instructions to verify that the LSU can pipeline these instructions. Test the data throughput by ensuring that the LSU achieves one data access per cycle, as expected.

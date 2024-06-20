@@ -1,0 +1,1 @@
+Out-of-Order Recovery: Design programs with mixed dependent and independent instructions to test the RTU's ability to recover and retire instructions out of order. Evaluate the execution order and verify that dependent instructions are correctly retired after their dependencies are resolved.

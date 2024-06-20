@@ -1,0 +1,1 @@
+Mixed Operations: Create programs that combine different types of operations (arithmetic, bitwise, comparisons) in a single expression or sequence of statements. This tests the ALU's ability to handle complex expressions involving multiple operation types and ensures correct precedence and associativity rules are followed.

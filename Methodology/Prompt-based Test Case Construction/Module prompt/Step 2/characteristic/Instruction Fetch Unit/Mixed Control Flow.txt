@@ -1,0 +1,1 @@
+Mixed Control Flow: Design programs that combine different types of control flow constructs, such as nested loops, if-else statements, switch-case statements, and function calls. Test the IFU's ability to handle complex control flow scenarios by analyzing the execution time and the accuracy of branch predictions.

@@ -1,0 +1,1 @@
+Instruction Prefetch Efficiency: Design programs with different access patterns, such as sequential access, random access, or strided access to instructions. Evaluate the efficiency of instruction prefetching by assessing the impact on execution time and the number of cache misses.

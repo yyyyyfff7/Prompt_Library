@@ -1,0 +1,1 @@
+Indirect Branch Prediction: Create tests that include indirect branches, such as function pointers, switch-case statements with variable cases, or virtual function calls in C++. Evaluate the accuracy of indirect branch prediction by monitoring the execution time and the number of correctly predicted branches.

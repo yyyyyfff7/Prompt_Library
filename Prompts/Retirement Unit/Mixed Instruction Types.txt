@@ -1,0 +1,1 @@
+Mixed Instruction Types Design programs that include a mix of instruction types (e.g., arithmetic, logic, control flow, memory access) to test the RTU's ability to handle diverse instruction retirement scenarios. Analyze the retirement order and execution time to ensure efficient and correct retirement of instructions.

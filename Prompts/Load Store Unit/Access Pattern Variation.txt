@@ -1,0 +1,1 @@
+Access Pattern Variation: Create tests with varying access patterns, such as sequential, strided, and random access to memory. Evaluate the LSU's adaptability in handling different data access patterns and its impact on performance by analyzing the data throughput and execution time under different access patterns.

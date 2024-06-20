@@ -1,0 +1,1 @@
+Mixed FPU Operations: Design programs that combine different floating-point operations, such as addition followed by multiplication or division followed by square root. Include a mix of operand values and precisions to test the FPU's ability to handle complex expressions involving multiple operation types.

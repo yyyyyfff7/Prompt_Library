@@ -1,0 +1,1 @@
+FDSU Operations: Implement programs that perform floating-point division and square root operations. Test with different operand values and precisions to verify the FDSU's functionality and precision in handling division and square root calculations.
