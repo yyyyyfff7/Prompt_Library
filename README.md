@@ -1,6 +1,6 @@
 # Data Repository for From-RTL-to-Prompt
 
-This repository accompanies the manuscript submitted to Euro-par 2024, titled "VChat: Towards Automated Behavioral Verification of Processors by Large Language Models".
+This repository accompanies the manuscript submitted to ICCAD 2024, titled "LLM-TG: Towards Automated Test Case Generation for Processors Using Large Language Models".
 
 It contains the following:
 
