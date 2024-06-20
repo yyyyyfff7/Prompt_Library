@@ -1,4 +1,4 @@
-# Data Repository for From-RTL-to-Prompt
+# Data Repository for LLM-TG
 
 This repository accompanies the manuscript submitted to ICCAD 2024, titled "LLM-TG: Towards Automated Test Case Generation for Processors Using Large Language Models".
 
