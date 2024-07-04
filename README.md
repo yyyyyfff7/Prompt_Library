@@ -1,6 +1,6 @@
 # Data Repository for LLM-TG
 
-This repository accompanies the manuscript submitted to ICCAD 2024, titled "LLM-TG: Towards Automated Test Case Generation for Processors Using Large Language Models".
+This repository accompanies the manuscript submitted to ICCD 2024, titled "LLM-TG: Towards Automated Test Case Generation for Processors Using Large Language Models".
 
 It contains the following:
 
