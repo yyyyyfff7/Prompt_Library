@@ -1,8 +1,8 @@
 import openai
 import os
 
-openai.api_key = 'sk-6WeKYTRWvNwtZUqF428d0a948d764760941c56B44b3e3503'
-openai.api_base = "https://api.gpts.vin/v1"
+openai.api_key = 'sk-xxxxxxxxxxxxxxxxxxxxxxx'
+openai.api_base = "xxxxxxxxxxxxxxxxxxxxxx"
 
 # Ensure the API key is set
 if openai.api_key is None:
